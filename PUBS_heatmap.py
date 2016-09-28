@@ -67,7 +67,7 @@ def main():
     heat(y)
 
 main()
-
+#show you titties.. do it
 #a = [[1,2,3],[1,3,3],[2,3,3]]
 #print(a)
 #plt.imshow(a, cmap='hot', interpolation='nearest')
